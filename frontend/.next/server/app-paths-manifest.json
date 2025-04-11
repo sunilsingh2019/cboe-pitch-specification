@@ -1,0 +1,11 @@
+{
+  "/not-found": "app/not-found.js",
+  "/resend-verification/page": "app/resend-verification/page.js",
+  "/page": "app/page.js",
+  "/verify-email/[token]/page": "app/verify-email/[token]/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/dashboard/upload/page": "app/dashboard/upload/page.js",
+  "/dashboard/history/page": "app/dashboard/history/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
