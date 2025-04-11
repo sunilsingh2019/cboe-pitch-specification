@@ -390,6 +390,12 @@ The application provides the following API endpoints:
   - `GET /api/users/me/` - Get current user profile
   - `PUT /api/users/me/` - Update user profile
 
+## Demo Video
+
+Watch a demonstration of the CBOE PITCH Data Processor in action:
+
+[![CBOE PITCH Data Processor Demo](https://img.youtube.com/vi/GxddScu_uzA/0.jpg)](https://youtu.be/GxddScu_uzA)
+
 ## License
 
 [MIT License](LICENSE)
